@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Sorveteria-FormularioReactJS/static/js/main.4c1db7de.js",
-    "index.html": "/Sorveteria-FormularioReactJS/index.html",
-    "main.4c1db7de.js.map": "/Sorveteria-FormularioReactJS/static/js/main.4c1db7de.js.map"
+    "main.js": "/Sistema-de-Login/static/js/main.aedbe67e.js",
+    "index.html": "/Sistema-de-Login/index.html",
+    "main.aedbe67e.js.map": "/Sistema-de-Login/static/js/main.aedbe67e.js.map"
   },
   "entrypoints": [
-    "static/js/main.4c1db7de.js"
+    "static/js/main.aedbe67e.js"
   ]
 }
