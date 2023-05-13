@@ -3,7 +3,7 @@
 Aplicação frontend com uma tela de Sign up e Sing in.
 
 <p align="center">
-<img width="870" src="src\assets\to_readme\sistema-de-login.gif">
+<img width="870" src="src\assets\to_readme\logingif.gif">
 </p>
 
 ## Neste projeto
